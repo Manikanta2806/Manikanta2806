@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikanta2806" alt="manikanta2806" /></a> </p>
 
-- 🌱 I’m currently learning **maeven, java springboot and aws**
+- 🌱 I’m currently learning **Agentic AI workflows**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-seven-navy-21.vercel.app/](https://portfolio-seven-navy-21.vercel.app/)
 
